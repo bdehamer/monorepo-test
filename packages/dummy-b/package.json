@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/bdehamer/monorepo-test"
   },
+  "publishConfig": {
+    "provenance": true
+  },
   "files": [
     "dist"
   ],
