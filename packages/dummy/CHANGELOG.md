@@ -1,5 +1,11 @@
 # @bdehamer/dummy
 
+## 0.2.0
+
+### Minor Changes
+
+- e3529db: minor change to the message export
+
 ## 0.1.1
 
 ### Patch Changes
