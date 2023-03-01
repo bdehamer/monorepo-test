@@ -28,10 +28,6 @@ jobs:
       - name: Install latest npm
         run: |
           npm install -g npm@latest
-      - name: Enable provenance publishing
-        run: |
-          echo "" >> "$NPM_CONFIG_USERCONFIG"
-          echo "provenance=true" >> "$NPM_CONFIG_USERCONFIG"
       - name: Create Release Pull Request
         uses: changesets/action@v1
         with:
