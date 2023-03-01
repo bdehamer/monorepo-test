@@ -1,5 +1,11 @@
 # @bdehamer/dummy-b
 
+## 0.0.4
+
+### Patch Changes
+
+- 219852a: testing publishConfig for dummy-b
+
 ## 0.0.3
 
 ### Patch Changes
