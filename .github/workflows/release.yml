@@ -31,7 +31,7 @@ jobs:
           npm install -g npm@latest
       - name: Enable provenance publishing
         run: |
-          echo "provenance=true" >> "$NPM_CONFIG_USERCONFIG"
+          echo "\nprovenance=true" >> "$NPM_CONFIG_USERCONFIG"
           cat "$NPM_CONFIG_USERCONFIG"
           ls -al
           npm --version
