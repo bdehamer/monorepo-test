@@ -1,6 +1,6 @@
 {
   "name": "@bdehamer/dummy-a",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Monorepo testing sub-project A",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

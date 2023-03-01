@@ -1,5 +1,11 @@
 # @bdehamer/dummy-a
 
+## 0.1.0
+
+### Minor Changes
+
+- b28eaea: minor bump to dummy-a
+
 ## 0.0.1
 
 ### Patch Changes
