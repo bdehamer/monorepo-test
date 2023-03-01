@@ -1,5 +1,11 @@
 # @bdehamer/dummy
 
+## 0.2.1
+
+### Patch Changes
+
+- 3298bdd: Change dummy-b to be a dev dependency of the top-level dummy project
+
 ## 0.2.0
 
 ### Minor Changes
