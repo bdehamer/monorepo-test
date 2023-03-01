@@ -32,7 +32,7 @@ jobs:
       - name: Enable provenance publishing
         run: |
           echo "provenance=true" >> "$NPM_CONFIG_USERCONFIG"
-          cat "$NPM_CONFIG_USER_CONFIG"
+          cat "$NPM_CONFIG_USERCONFIG"
           ls -al
           npm --version
       - name: Create Release Pull Request
