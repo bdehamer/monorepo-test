@@ -32,9 +32,6 @@ jobs:
         run: |
           echo "" >> "$NPM_CONFIG_USERCONFIG"
           echo "provenance=true" >> "$NPM_CONFIG_USERCONFIG"
-          cat "$NPM_CONFIG_USERCONFIG"
-          ls -al
-          npm --version
       - name: Create Release Pull Request
         uses: changesets/action@v1
         with:
