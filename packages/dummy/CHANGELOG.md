@@ -1,5 +1,14 @@
 # @bdehamer/dummy
 
+## 0.2.3
+
+### Patch Changes
+
+- 18f45dc: yet another bug fix
+- cfc7b39: bug fix for dummy package
+- Updated dependencies [b28eaea]
+  - @bdehamer/dummy-a@0.1.0
+
 ## 0.2.2
 
 ### Patch Changes
