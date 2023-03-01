@@ -1,0 +1,12 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "dist"
+  },
+  "exclude": ["./dist"],
+  "references": [
+    { "path": "../dummy-a" },
+    { "path": "../dummy-b" }
+  ]
+}

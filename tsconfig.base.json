@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "noImplicitOverride": true,
+    "allowUnreachableCode": false,
+    "noImplicitReturns": true,
+    "noUnusedParameters": true
+  }
+}
