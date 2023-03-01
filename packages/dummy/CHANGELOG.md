@@ -1,5 +1,11 @@
 # @bdehamer/dummy
 
+## 0.2.2
+
+### Patch Changes
+
+- 2d8014b: Bug fix for exported string
+
 ## 0.2.1
 
 ### Patch Changes
