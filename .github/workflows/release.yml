@@ -26,6 +26,9 @@ jobs:
           cache: npm
       - name: Install dependencies
         run: npm ci
+      - name: Install latest npm
+        run: |
+          npm install -g npm@latest
       - name: Enable provenance publishing
         run: |
           echo "provenance=true" >> "$NPM_CONFIG_USERCONFIG"
