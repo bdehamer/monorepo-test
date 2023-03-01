@@ -14,8 +14,6 @@ jobs:
   publish:
     name: Release packages
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # for changesets/action to git push
     steps:
       - name: Checkout source
         uses: actions/checkout@ac593985615ec2ede58e132d2e21d2b1cbd6127c # v3
