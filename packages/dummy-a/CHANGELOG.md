@@ -1,5 +1,12 @@
 # @bdehamer/dummy-a
 
+## 0.1.1
+
+### Patch Changes
+
+- 3a4424d: minor bugfix
+- 18a49ba: minor bugfix
+
 ## 0.1.0
 
 ### Minor Changes

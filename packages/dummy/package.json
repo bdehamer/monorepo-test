@@ -1,6 +1,6 @@
 {
   "name": "@bdehamer/dummy",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Monorepo testing project",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -23,7 +23,7 @@
     "@bdehamer/dummy-b": "0.0.4"
   },
   "dependencies": {
-    "@bdehamer/dummy-a": "0.1.0"
+    "@bdehamer/dummy-a": "0.1.1"
   },
   "engines": {
     "node": "^14.17.0 || ^16.13.0 || >=18.0.0"

@@ -1,5 +1,13 @@
 # @bdehamer/dummy
 
+## 0.2.4
+
+### Patch Changes
+
+- Updated dependencies [3a4424d]
+- Updated dependencies [18a49ba]
+  - @bdehamer/dummy-a@0.1.1
+
 ## 0.2.3
 
 ### Patch Changes
