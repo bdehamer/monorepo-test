@@ -1,5 +1,11 @@
 # @bdehamer/dummy
 
+## 0.2.5
+
+### Patch Changes
+
+- 844158b: another little bug fix
+
 ## 0.2.4
 
 ### Patch Changes
