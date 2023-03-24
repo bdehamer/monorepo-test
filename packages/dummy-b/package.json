@@ -21,7 +21,7 @@
   "author": "bdehamer@github.com",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^18.14.1",
+    "@types/node": "^18.15.7",
     "typescript": "^4.9.5"
   },
   "engines": {
