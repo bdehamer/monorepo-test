@@ -12,4 +12,4 @@ jobs:
     if: ${{ github.actor == 'dependabot[bot]' }}
     steps:
       - name: Dependabot Changesets
-        uses: feelepxyz/dependabot-changesets@2d6ec3d11f39d39682c6ea53be1bd5faeb093897 # v1
+        uses: feelepxyz/dependabot-changesets@088619209e26134e4817fc0e7aba82cfdc10373a # v1.1
