@@ -1,6 +1,6 @@
 name: noop
 
-on: workflow_trigger
+on: workflow_dispatch
 
 permissions:
   id-token: write
