@@ -1,5 +1,11 @@
 # @bdehamer/dummy
 
+## 0.2.8
+
+### Patch Changes
+
+- 856c443: noop change
+
 ## 0.2.7
 
 ### Patch Changes
