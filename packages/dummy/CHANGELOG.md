@@ -1,5 +1,11 @@
 # @bdehamer/dummy
 
+## 0.2.7
+
+### Patch Changes
+
+- 12bb779: patch bump
+
 ## 0.2.5
 
 ### Patch Changes
